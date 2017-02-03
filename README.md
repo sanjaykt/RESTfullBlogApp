@@ -1,3 +1,3 @@
 ##This was created working alone Udemy course##
 
-**This is a simple blog site that implement RESTfull route**
+**This is a simple blog site that implements RESTfull route**
